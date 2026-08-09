@@ -1,0 +1,29 @@
+# ---- Claude Code 运行时数据（私有/机器相关，不上传） ----
+settings.json
+config.json
+history.jsonl
+.last-cleanup
+.last-update-result.json
+
+# 会话与对话历史
+projects/
+sessions/
+session-env/
+shell-snapshots/
+file-history/
+
+# 缓存与临时
+cache/
+downloads/
+telemetry/
+backups/
+plugins/
+ide/
+
+# 已安装 skill（体积大，按需本地部署）
+skills/
+
+# 操作系统杂项
+Thumbs.db
+desktop.ini
+.DS_Store
